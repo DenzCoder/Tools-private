@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+data/session.json
+data/device_id.txt
+data/settings.json
+data/activity.log
+data/music_queue.json
+*.token
+*.session
+*.log
+cache/
+
+# Server secrets / local database
+server/.env
+server/*.sqlite3
+server/.venv/
+
+# Protected build material
+protected/*.key
+
+# Seller signing keys (NEVER commit)
+*_signing_private.pem
+seller_signing_private.pem
