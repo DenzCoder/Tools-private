@@ -3,14 +3,12 @@
   "algorithm": "sha256",
   "signature": "ed25519",
   "files": {
-    ".env.example": "21dc49a5482b414bd7364b025888a312692c235fb41fcc1a3a804b3841a6b41d",
     ".gitignore": "72a8588f93d57625fec723248fff6b56805cc5c1324742d1078472c4c6773c78",
     "CHANGELOG_UI_FIXES.md": "2e78acd30fda564ba44e7027fb4438dee71154807aed67bfdd82e668137952ba",
     "README.md": "72ff5505d580eb0928b373d1101806f844766aa6fb995f8fe0611882c1eb56bf",
     "SECURITY.md": "94dc7ed03b709d2b83207f4ad9a007232216665fdd5186201b22b0e7b37773e2",
     "TERMUX_ADMIN.md": "ecad0562fd7bc171dc765f39de970fd643366162b0d90003717c983789c13851",
     "VERSION": "aaa9d0afe7a9c61356d0fd1a276b1880185d28281a8e1864326b57db7757a920",
-    "__pycache__/core.cpython-313.pyc": "b4dee42f1173fe733631e7c5b218935153748123b3346daba225ab46911d2426",
     "app.py": "41d03f94510ec5705ac696e205ee43cc11e935d2bebd99cd5345a2f05539fc05",
     "core.py": "29fa9235283dcd8c30645b17e83a5194afca10345d623d8411bb5570539973a9",
     "guest.py": "e7e31098d81032a2c6e27e174aafbb642fa4c53ea12cbc4eb1762f3254eb506d",
@@ -25,14 +23,9 @@
     "run_admin.sh": "9b239e48b299be209c265794214fa52b45729592befe6f1378be747dfc5e279e",
     "security/README.md": "c85bd951c59f0f49a5cf6d83613298ed6cf20cb64ce224c809cbc269b3f5e3ef",
     "security/__init__.py": "2d1b19665f62b1c8176e4d8c415c5cd90afdf14b72a34d213e5ac6a687a4ea26",
-    "security/__pycache__/__init__.cpython-313.pyc": "5299cfd65f98e868814b15f6cc9eb504d03a2dc5d16b1786da6b0ed0cb7bc506",
-    "security/__pycache__/integrity.cpython-313.pyc": "66fc2673207164f85727b94183deeb0262afcfc5fcf051f585b1147e4e45d7f7",
-    "security/__pycache__/license.cpython-313.pyc": "0c1d37f16da9b27b6238604e853d35d4b9736bb21369cded1948c7e1f9df15db",
     "security/integrity.py": "089fa1c5a2536c6291c8ed7f693087de0ad6be9197c5a03f2313f38fc82ae570",
     "security/license.py": "7e72a4efbbbd84ee1008dc1c259706611ad4272674e19df0cb8320160107efe5",
     "ui/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "ui/__pycache__/__init__.cpython-313.pyc": "66ea367a51ef4c3b108ed36d9c4085d841587cd9c0ea917b0552bb3457112407",
-    "ui/__pycache__/dashboard.cpython-313.pyc": "f0a8aa897875a88880462f3372c06be4e0219cc03adec07b5d86ad66d2a34245",
     "ui/dashboard.py": "6256ef2c470edd213aeeb6cafc2221887e891660747410c8fa1e6d0f6078e193"
   }
 }
